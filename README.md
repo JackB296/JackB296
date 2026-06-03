@@ -15,8 +15,8 @@
     <img width="32px" alt="Email" title="Email" src="https://i.imgur.com/6XH2Gkn.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/JackB296">
-    <img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/0o48UoR.png"/>
+  <a href="https://jbialecki.com">
+    <img width="32px" alt="Portfolio Website" title="Portfolio Website" src="https://i.imgur.com/mVm29vK.png"/>
   </a>
 </p>
 
@@ -25,6 +25,9 @@
 <p align="center">
   <a href="mailto:bialecjr@mail.uc.edu">
     <img src="https://img.shields.io/badge/Email-bialecjr%40mail.uc.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://jbialecki.com">
+    <img src="https://img.shields.io/badge/Portfolio-jbialecki.com-640465?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website">
   </a>
   <a href="https://github.com/JackB296?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Of%20My%20Repos-640465?style=for-the-badge&logoColor=white&logo=repo"/>
@@ -84,5 +87,3 @@
 
 * Developed a Flask web app with SQL-backed authentication, account storage, stock lookup, and simulated buy/sell functionality
 * Built with Python, Flask, SQL, HTML, and CSS
-
----
